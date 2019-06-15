@@ -20,6 +20,7 @@ Highly customizable search server for a small corpus.
 - NLP query parsing
 - Integration with machine learning algorithms
 - Geospatial queries
+- Support for different languages
 - Fast
 
 ## Use Cases
